@@ -1,7 +1,4 @@
 {
     "name": "tether-digital/regenerate-thumbnails",
-	"type": "wordpress-plugin",
-	"require": {
-		"composer/installers": "v1.0.6"
-	}
+	"type": "wordpress-plugin"
 }
